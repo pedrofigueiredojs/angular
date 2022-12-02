@@ -1,0 +1,34 @@
+{
+  "carros": [
+    {
+      "id": 1,
+      "marca": "Fiat",
+      "nome": "Uno"
+    },
+    {
+      "id": 2,
+      "marca": "Audi",
+      "nome": "rx7"
+    },
+    {
+      "id": 3,
+      "marca": "Lambo",
+      "nome": "Aventador"
+    },
+    {
+      "id": 4,
+      "marca": "Lambo",
+      "nome": "Urus"
+    },
+    {
+      "id": 5,
+      "marca": "Ferrari",
+      "nome": "Farrari 1"
+    },
+    {
+      "nome": "Civic",
+      "marca": "Honda",
+      "id": 6
+    }
+  ]
+}
